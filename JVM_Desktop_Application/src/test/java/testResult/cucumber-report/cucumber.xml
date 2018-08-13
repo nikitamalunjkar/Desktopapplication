@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="8.558304">
+<testcase classname="DesktopApp" name="Verify the Addition of two number" time="8.558304">
+<system-out><![CDATA[Given Click on First Number.................................................passed
+Then Click on Add Button....................................................passed
+Then Click on Second Number.................................................passed
+Then Click on Equal Button..................................................passed
+Then Observe Result.........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

@@ -1,0 +1,3 @@
+com\face\stepDefinitions\Desktop_App.class
+com\testRunners\RunnerTest.class
+com\face\pageFactory\DeskTopAPPPage.class
